@@ -1,0 +1,164 @@
+#login-bar {
+    width: 400px;
+    height: 400px;
+    
+    
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 30px;
+
+    margin-left: 800px;
+    margin-bottom: 30px;
+    margin-top: -560px;
+    margin-right: 0px;
+
+    padding-left:90px;
+    padding-right: 10px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+
+#username{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    
+    margin-top:2px; 
+}
+
+#username-input, #password-input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+
+    padding-right: 80px;
+    padding-right:70px;
+
+    margin-left: 19px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: #ffffff; /* text on dark background */
+    backdrop-filter: blur(10px);
+    }
+
+#password{
+    font-size: 20px;
+    margin-top: 2px; 
+    
+}
+
+#username1, #password1{
+
+    padding-left: 10px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-size: 26px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}   
+
+#bg{
+    background-image: url("pictures/bg.admin.jpg");
+    background-size: cover;
+    min-height: 100vh;
+   
+ 
+
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+#login{
+    font-size: 50px;
+    font-weight: 999;
+    color: white;
+    font-family: "Caveat", cursive;
+   font-optical-sizing: auto;
+    
+    padding-left: 70px;
+}
+#button-bg{
+    border-radius: 5px;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+    
+
+    height: 35px;
+    width: 140px;
+
+    margin-right: 0px;
+    margin-left: 70px;
+}
+
+#login-button{
+    font-weight: 900;
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  background-color: rgb(255, 255, 255);
+ 
+    cursor: pointer;
+    font-size: 20px;
+    
+    margin-bottom: 10px;
+    margin-top: 1px;
+    margin-left:-9px;
+
+    padding-left: 10px 20px;
+    transition: 0.3 ease;
+}
+
+#login-button:hover{
+    color:rgb(151, 6, 6) ;
+    border-color: #ffffff;
+}
+
+#h1welcome{
+    font-family: "Boldonse", system-ui;
+    color: rgb(41, 129, 224);
+    text-shadow: 12px 12px 15px rgb(255, 255, 255);
+
+    font-size: 50px;
+
+    padding-bottom: 100;
+
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+#h1welcome{
+height:auto;
+padding:120px 20px;
+}
+   
+
+}
+
+#h1back{
+    font-family: "Boldonse", system-ui;
+    font-size: 50px;
+    color: rgb(255, 72, 0);
+    text-shadow: 12px 12px 15px rgb(255, 255, 255);
+
+    padding-top: -100px;
+
+    margin-top: -110px;
+
+   
+}
+
+#textcontainer{
+
+    height: 600px;
+    width: 500px;
+
+    
+
+    margin-left: 100px;
+    margin-right: 10px;
+
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+
